@@ -1,0 +1,15 @@
+.root {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.group {
+    overflow: visible;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+}

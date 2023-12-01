@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "wilcorrea",
+      "password": "$2b$10$52b84BJTYrMGmovs4PtLYu6mD5EFdOggwVE6lgpA50kIJoHEKw4Hu"
+    },
+    {
+      "id": 2,
+      "username": "jhon",
+      "password": "$2b$10$52b84BJTYrMGmovs4PtLYu6mD5EFdOggwVE6lgpA50kIJoHEKw4Hu"
+    },
+    {
+      "username": "Wagnermorais",
+      "password": "$2b$10$tccvZOzRdihg0ZXbx6nRve7WVIgEhcNwUgPiXgo8aDHllbPW9Yvz."
+    },
+    {
+      "username": "Wagnermorais",
+      "password": "$2b$10$JtWzn2EDAZNC1asUv8iH/.2wJ00EsrEvsrrUmYzBYBxrk/rignwCe"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "content": "Content 1",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "content": "Content 2",
+      "userId": 2
+    }
+  ]
+}
